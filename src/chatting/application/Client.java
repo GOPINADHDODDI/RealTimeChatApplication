@@ -70,7 +70,7 @@ public class Client implements ActionListener {
         morevert.setBounds(420, 20, 10, 25);
         p1.add(morevert);
         
-        JLabel name = new JLabel("Bunty");
+        JLabel name = new JLabel("Gopinadh");
         name.setBounds(110, 15, 100, 18);
         name.setForeground(Color.WHITE);
         name.setFont(new Font("SAN_SERIF", Font.BOLD, 18));
